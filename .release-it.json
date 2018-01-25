@@ -4,5 +4,8 @@
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
+    },
+    "src": {
+        "tagName": "st3-%s"
     }
 }
