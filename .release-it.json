@@ -1,11 +1,8 @@
 {
-    "buildCommand": "changelog",
+    "buildCommand": "changelog ${version}",
     "changelogCommand": "changelog ${version} -f -",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
-    },
-	"src": {
-        "tagName": "%s"
     }
 }
