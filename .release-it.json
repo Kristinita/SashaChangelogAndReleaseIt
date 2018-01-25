@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog ${version}",
+    "buildCommand": "changelog",
     "changelogCommand": "changelog ${version} -f -",
     "github": {
         "release": true,
