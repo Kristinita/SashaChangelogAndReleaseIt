@@ -5,6 +5,7 @@
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
     },
+    "requireUpstream": false,
     "src": {
         "tagName": "st3-%s"
     }
