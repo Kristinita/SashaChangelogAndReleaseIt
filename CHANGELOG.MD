@@ -1,3 +1,9 @@
+#### 0.0.1 (2018-01-26)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test 0.0.0 version (a696c9d5)
+
 #### 0.0.2 (2018-01-26)
 
 ##### Build System / Dependencies
